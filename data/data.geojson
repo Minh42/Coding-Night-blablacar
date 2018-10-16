@@ -1,0 +1,8802 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-05-31T13:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23203474",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "2",
+        "name": "Péage de Fleury-en-Bière"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5396076,
+              48.4258761
+            ],
+            [
+              2.5396615,
+              48.4257293
+            ],
+            [
+              2.5398237,
+              48.4257556
+            ],
+            [
+              2.5404646,
+              48.4258592
+            ],
+            [
+              2.5408499,
+              48.4259215
+            ],
+            [
+              2.540796,
+              48.4260683
+            ],
+            [
+              2.5404114,
+              48.4260061
+            ],
+            [
+              2.5397744,
+              48.4259031
+            ],
+            [
+              2.5396076,
+              48.4258761
+            ]
+          ]
+        ]
+      },
+      "id": "way/23203474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23203489",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "2",
+        "name": "Péage de Fleury-en-Bière"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.5399803,
+              48.4281572
+            ],
+            [
+              2.5400232,
+              48.4280775
+            ],
+            [
+              2.5403018,
+              48.4281502
+            ],
+            [
+              2.5405468,
+              48.4282142
+            ],
+            [
+              2.5405039,
+              48.4282939
+            ],
+            [
+              2.5402533,
+              48.4282285
+            ],
+            [
+              2.5399803,
+              48.4281572
+            ]
+          ]
+        ]
+      },
+      "id": "way/23203489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25678876",
+        "barrier": "toll_booth",
+        "building": "roof",
+        "name": "Tolplein Liefkenshoektunnel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.2889832,
+              51.2865558
+            ],
+            [
+              4.2888725,
+              51.2864186
+            ],
+            [
+              4.2899704,
+              51.286072
+            ],
+            [
+              4.2900811,
+              51.2862091
+            ],
+            [
+              4.2889832,
+              51.2865558
+            ]
+          ]
+        ]
+      },
+      "id": "way/25678876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26371555",
+        "barrier": "toll_booth",
+        "building": "roof",
+        "layer": "1",
+        "name": "Péage d'Amblainville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1691218,
+              49.2055006
+            ],
+            [
+              2.1690471,
+              49.205427
+            ],
+            [
+              2.1687968,
+              49.2051804
+            ],
+            [
+              2.1686177,
+              49.2050038
+            ],
+            [
+              2.1688664,
+              49.2048961
+            ],
+            [
+              2.1690616,
+              49.205084
+            ],
+            [
+              2.1692858,
+              49.2053094
+            ],
+            [
+              2.1693705,
+              49.2053929
+            ],
+            [
+              2.1691218,
+              49.2055006
+            ]
+          ]
+        ]
+      },
+      "id": "way/26371555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43395878",
+        "barrier": "toll_booth",
+        "building": "toll_booth",
+        "int_name": "A1 Motorway Entry Toll Booth",
+        "name": "stand entrée autoroute à péage",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.7690945,
+              49.7055987
+            ],
+            [
+              2.7688635,
+              49.7055672
+            ],
+            [
+              2.7688998,
+              49.7054457
+            ],
+            [
+              2.7691355,
+              49.7054792
+            ],
+            [
+              2.7690945,
+              49.7055987
+            ]
+          ]
+        ]
+      },
+      "id": "way/43395878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55801996",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "2",
+        "name": "Gare de péage de Chamant",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6270791,
+              49.2165116
+            ],
+            [
+              2.6269196,
+              49.216439
+            ],
+            [
+              2.6280058,
+              49.2154219
+            ],
+            [
+              2.6281652,
+              49.2154945
+            ],
+            [
+              2.6270791,
+              49.2165116
+            ]
+          ]
+        ]
+      },
+      "id": "way/55801996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84820588",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.4426396,
+              49.5816539
+            ],
+            [
+              0.4429343,
+              49.5810516
+            ],
+            [
+              0.4434345,
+              49.5811269
+            ],
+            [
+              0.4431487,
+              49.5817233
+            ],
+            [
+              0.4426396,
+              49.5816539
+            ]
+          ]
+        ]
+      },
+      "id": "way/84820588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98370917",
+        "barrier": "toll_booth",
+        "building": "roof",
+        "name": "Péage de Thennelières",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.1630869,
+              48.2893753
+            ],
+            [
+              4.1630383,
+              48.2893839
+            ],
+            [
+              4.162895,
+              48.289409
+            ],
+            [
+              4.1628359,
+              48.2894193
+            ],
+            [
+              4.1627899,
+              48.2893003
+            ],
+            [
+              4.1628553,
+              48.289289
+            ],
+            [
+              4.1629962,
+              48.2892646
+            ],
+            [
+              4.1630439,
+              48.2892563
+            ],
+            [
+              4.1630869,
+              48.2893753
+            ]
+          ]
+        ]
+      },
+      "id": "way/98370917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110157861",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "2",
+        "name": "Ablis",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8326046,
+              48.528913
+            ],
+            [
+              1.8322859,
+              48.5288414
+            ],
+            [
+              1.8323427,
+              48.5287322
+            ],
+            [
+              1.8326601,
+              48.5288036
+            ],
+            [
+              1.8326046,
+              48.528913
+            ]
+          ]
+        ]
+      },
+      "id": "way/110157861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113471780",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "name": "Gare de Péage des Eprunes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.655768,
+              48.588798
+            ],
+            [
+              2.655539,
+              48.588855
+            ],
+            [
+              2.6553475,
+              48.5885062
+            ],
+            [
+              2.655184,
+              48.588207
+            ],
+            [
+              2.655423,
+              48.588147
+            ],
+            [
+              2.6555931,
+              48.5884558
+            ],
+            [
+              2.65578,
+              48.588795
+            ],
+            [
+              2.655768,
+              48.588798
+            ]
+          ]
+        ]
+      },
+      "id": "way/113471780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113472221",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "2",
+        "name": "Gare de Péage des Eprunes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.6569129,
+              48.5886612
+            ],
+            [
+              2.6572336,
+              48.5892543
+            ],
+            [
+              2.6575548,
+              48.5898485
+            ],
+            [
+              2.6573225,
+              48.5899035
+            ],
+            [
+              2.6569999,
+              48.5893068
+            ],
+            [
+              2.6566806,
+              48.5887161
+            ],
+            [
+              2.6569129,
+              48.5886612
+            ]
+          ]
+        ]
+      },
+      "id": "way/113472221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127091023",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "2",
+        "name": "Gare de Péage de Mantes",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.6808091,
+              48.9831634
+            ],
+            [
+              1.68101,
+              48.9831236
+            ],
+            [
+              1.6814773,
+              48.9841393
+            ],
+            [
+              1.6812764,
+              48.9841791
+            ],
+            [
+              1.6808091,
+              48.9831634
+            ]
+          ]
+        ]
+      },
+      "id": "way/127091023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127091024",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "2",
+        "name": "Gare de Péage de Montreuil aux Lions",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.1451236,
+              49.0100075
+            ],
+            [
+              3.1457856,
+              49.0094705
+            ],
+            [
+              3.1459129,
+              49.0095353
+            ],
+            [
+              3.1452533,
+              49.0100747
+            ],
+            [
+              3.1451236,
+              49.0100075
+            ]
+          ]
+        ]
+      },
+      "id": "way/127091024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141815115",
+        "barrier": "toll_booth",
+        "building": "roof",
+        "layer": "1",
+        "name": "Péage de Saint-Arnoult-en-Yvelines",
+        "operator": "Cofiroute",
+        "source": "Bing",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.9298186,
+              48.5543116
+            ],
+            [
+              1.9297054,
+              48.5541067
+            ],
+            [
+              1.929739,
+              48.5540611
+            ],
+            [
+              1.9299158,
+              48.5538214
+            ],
+            [
+              1.9304043,
+              48.5531589
+            ],
+            [
+              1.930854,
+              48.5525492
+            ],
+            [
+              1.9310467,
+              48.5522878
+            ],
+            [
+              1.9311471,
+              48.5522642
+            ],
+            [
+              1.9313204,
+              48.5522236
+            ],
+            [
+              1.9313663,
+              48.5522128
+            ],
+            [
+              1.9313824,
+              48.5522441
+            ],
+            [
+              1.931477,
+              48.5524277
+            ],
+            [
+              1.9314429,
+              48.5524743
+            ],
+            [
+              1.9312818,
+              48.552695
+            ],
+            [
+              1.9308304,
+              48.5533135
+            ],
+            [
+              1.9303486,
+              48.5539728
+            ],
+            [
+              1.930177,
+              48.5542078
+            ],
+            [
+              1.9301584,
+              48.5542333
+            ],
+            [
+              1.9298186,
+              48.5543116
+            ]
+          ]
+        ]
+      },
+      "id": "way/141815115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160565631",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "building:part": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.2711708,
+              49.4500738
+            ],
+            [
+              0.2711924,
+              49.4499137
+            ],
+            [
+              0.2712285,
+              49.4499158
+            ],
+            [
+              0.27128,
+              49.4499187
+            ],
+            [
+              0.2713988,
+              49.4499255
+            ],
+            [
+              0.2717159,
+              49.4499436
+            ],
+            [
+              0.271919,
+              49.4499552
+            ],
+            [
+              0.2719742,
+              49.4499583
+            ],
+            [
+              0.2719526,
+              49.4501184
+            ],
+            [
+              0.2718911,
+              49.4501148
+            ],
+            [
+              0.2716971,
+              49.4501038
+            ],
+            [
+              0.2713743,
+              49.4500854
+            ],
+            [
+              0.2712513,
+              49.4500784
+            ],
+            [
+              0.2711973,
+              49.4500753
+            ],
+            [
+              0.2711708,
+              49.4500738
+            ]
+          ]
+        ]
+      },
+      "id": "way/160565631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237354562",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "1",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.2717,
+              50.229554
+            ],
+            [
+              3.272214,
+              50.22898
+            ],
+            [
+              3.272398,
+              50.229047
+            ],
+            [
+              3.271885,
+              50.229621
+            ],
+            [
+              3.2717,
+              50.229554
+            ]
+          ]
+        ]
+      },
+      "id": "way/237354562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239161517",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "1",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.061479,
+              50.819784
+            ],
+            [
+              2.06154,
+              50.819697
+            ],
+            [
+              2.061547,
+              50.819699
+            ],
+            [
+              2.06167,
+              50.819734
+            ],
+            [
+              2.061721,
+              50.819749
+            ],
+            [
+              2.06166,
+              50.819836
+            ],
+            [
+              2.061479,
+              50.819784
+            ]
+          ]
+        ]
+      },
+      "id": "way/239161517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239316362",
+        "barrier": "toll_booth",
+        "building": "yes",
+        "layer": "1",
+        "name": "Gare de Péage de Setques",
+        "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2013",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.172323,
+              50.719006
+            ],
+            [
+              2.172478,
+              50.718917
+            ],
+            [
+              2.173072,
+              50.719358
+            ],
+            [
+              2.17292,
+              50.719441
+            ],
+            [
+              2.172323,
+              50.719006
+            ]
+          ]
+        ]
+      },
+      "id": "way/239316362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360036531",
+        "barrier": "toll_booth",
+        "building": "roof",
+        "layer": "1",
+        "name": "Gare de péage d'Illiers-Combray",
+        "wall": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.2700036,
+              48.2944053
+            ],
+            [
+              1.2701074,
+              48.2942835
+            ],
+            [
+              1.2705265,
+              48.2944415
+            ],
+            [
+              1.2704226,
+              48.2945633
+            ],
+            [
+              1.2700036,
+              48.2944053
+            ]
+          ]
+        ]
+      },
+      "id": "way/360036531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/559647352",
+        "area": "yes",
+        "barrier": "toll_booth",
+        "bicycle": "no",
+        "building": "yes",
+        "foot": "no",
+        "horse": "no",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.4654486,
+              49.6872946
+            ],
+            [
+              3.4654486,
+              49.6872251
+            ],
+            [
+              3.4655864,
+              49.6872297
+            ],
+            [
+              3.4655817,
+              49.6872931
+            ],
+            [
+              3.4654486,
+              49.6872946
+            ]
+          ]
+        ]
+      },
+      "id": "way/559647352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/559647361",
+        "area": "yes",
+        "barrier": "toll_booth",
+        "bicycle": "no",
+        "building": "yes",
+        "foot": "no",
+        "horse": "no",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.4661656,
+              49.687363
+            ],
+            [
+              3.4661707,
+              49.6873433
+            ],
+            [
+              3.4662917,
+              49.6873433
+            ],
+            [
+              3.4662917,
+              49.6873637
+            ],
+            [
+              3.4663232,
+              49.6873657
+            ],
+            [
+              3.4663252,
+              49.6873952
+            ],
+            [
+              3.4662246,
+              49.6873952
+            ],
+            [
+              3.4662297,
+              49.6873637
+            ],
+            [
+              3.4661656,
+              49.687363
+            ]
+          ]
+        ]
+      },
+      "id": "way/559647361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389866026",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0788869,
+            49.2117021
+          ],
+          [
+            4.0779988,
+            49.2112317
+          ]
+        ]
+      },
+      "id": "way/389866026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/509867722",
+        "barrier": "toll_booth",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "A 150",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.9222816,
+            49.5478116
+          ],
+          [
+            0.922236,
+            49.5478821
+          ],
+          [
+            0.9217948,
+            49.5482563
+          ],
+          [
+            0.9217519,
+            49.5482937
+          ],
+          [
+            0.9217104,
+            49.5483998
+          ]
+        ]
+      },
+      "id": "way/509867722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/144772",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6274927,
+          49.2159976
+        ]
+      },
+      "id": "node/144772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/618833",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8148736,
+          50.9358765
+        ]
+      },
+      "id": "node/618833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/644338",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.681206,
+          48.9837586
+        ]
+      },
+      "id": "node/644338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/644475",
+        "barrier": "toll_booth",
+        "name": "Péage Heudebouville",
+        "operator": "SAPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2326248,
+          49.1915559
+        ]
+      },
+      "id": "node/644475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/644995",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6811157,
+          48.9836089
+        ]
+      },
+      "id": "node/644995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/22913512",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1193284,
+          51.0932912
+        ]
+      },
+      "id": "node/22913512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/23059466",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1725126,
+          50.7190211
+        ]
+      },
+      "id": "node/23059466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/23059471",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1727751,
+          50.7192344
+        ]
+      },
+      "id": "node/23059471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/23197167",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9841561,
+          49.3221787
+        ]
+      },
+      "id": "node/23197167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/23197169",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9837313,
+          49.3220168
+        ]
+      },
+      "id": "node/23197169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/23217938",
+        "barrier": "toll_booth",
+        "name": "Péage de Taissy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0782607,
+          49.2113917
+        ]
+      },
+      "id": "node/23217938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/23217941",
+        "barrier": "toll_booth",
+        "name": "Péage de Taissy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0785599,
+          49.2115543
+        ]
+      },
+      "id": "node/23217941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25196607",
+        "barrier": "toll_booth",
+        "name": "Péage de Coutevroult"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.838205,
+          48.853801
+        ]
+      },
+      "id": "node/25196607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25555078",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Beuzeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3646327,
+          49.3379635
+        ]
+      },
+      "id": "node/25555078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25555358",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Beuzeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3647008,
+          49.3376515
+        ]
+      },
+      "id": "node/25555358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26209736",
+        "barrier": "toll_booth",
+        "operator": "Cofiroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9306292,
+          48.5532405
+        ]
+      },
+      "id": "node/26209736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26210039",
+        "barrier": "toll_booth",
+        "operator": "Cofiroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.930143,
+          48.5538997
+        ]
+      },
+      "id": "node/26210039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26745788",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2892321,
+          51.2864544
+        ]
+      },
+      "id": "node/26745788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26745791",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.289669,
+          51.2861879
+        ]
+      },
+      "id": "node/26745791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27411048",
+        "barrier": "toll_booth",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "yes",
+        "note": "£7 on 01/06/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3686642,
+          51.2702308
+        ]
+      },
+      "id": "node/27411048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28025816",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1240741,
+          48.4530978
+        ]
+      },
+      "id": "node/28025816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28870546",
+        "barrier": "toll_booth",
+        "name": "Péage de Malesherbes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5954772,
+          48.3386644
+        ]
+      },
+      "id": "node/28870546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28870547",
+        "barrier": "toll_booth",
+        "name": "Péage de Malesherbes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5953745,
+          48.3385733
+        ]
+      },
+      "id": "node/28870547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30438237",
+        "barrier": "toll_booth",
+        "name": "Péage de Quetteville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3080588,
+          49.3221265
+        ]
+      },
+      "id": "node/30438237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30813498",
+        "barrier": "toll_booth",
+        "name": "Barrière de Péage de Chalons-en-Champagne La Veuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3207334,
+          49.0409453
+        ]
+      },
+      "id": "node/30813498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31004566",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9117363,
+          50.3254005
+        ]
+      },
+      "id": "node/31004566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32212303",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6279644,
+          49.2155661
+        ]
+      },
+      "id": "node/32212303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32213712",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8639549,
+          50.2693056
+        ]
+      },
+      "id": "node/32213712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32425386",
+        "barrier": "toll_booth",
+        "name": "Gare de péage de Dury",
+        "operator": "Sanef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2486117,
+          49.8530037
+        ]
+      },
+      "id": "node/32425386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32628291",
+        "barrier": "toll_booth",
+        "name": "Péage de Haudricourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7029487,
+          49.7594874
+        ]
+      },
+      "id": "node/32628291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34562273",
+        "barrier": "toll_booth",
+        "name": "Péage de Hordain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2721177,
+          50.2292339
+        ]
+      },
+      "id": "node/34562273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34562274",
+        "barrier": "toll_booth",
+        "name": "Péage de Hordain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2717794,
+          50.2293994
+        ]
+      },
+      "id": "node/34562274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/35675144",
+        "barrier": "toll_booth",
+        "name": "Péage de Fleury-en-Biere",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.540443,
+          48.4259098
+        ]
+      },
+      "id": "node/35675144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/39694146",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8169702,
+          49.3666886
+        ]
+      },
+      "id": "node/39694146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/39694149",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8170428,
+          49.3668035
+        ]
+      },
+      "id": "node/39694149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/54774589",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2383686,
+          49.8917883
+        ]
+      },
+      "id": "node/54774589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/81055576",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.441604,
+          49.037199
+        ]
+      },
+      "id": "node/81055576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/97729391",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.746586,
+          50.2544126
+        ]
+      },
+      "id": "node/97729391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/99405983",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4607759,
+          49.4765382
+        ]
+      },
+      "id": "node/99405983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/99454381",
+        "barrier": "toll_booth",
+        "name": "Péage de Épretot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3351803,
+          49.5518019
+        ]
+      },
+      "id": "node/99454381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/122212229",
+        "barrier": "toll_booth",
+        "name": "Sortie 13 Méru Gisors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1507152,
+          49.2107347
+        ]
+      },
+      "id": "node/122212229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/131854822",
+        "barrier": "toll_booth",
+        "name": "Châtillon-la-Borde",
+        "operator": "Autoroutes Paris-Rhin-Rhone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7976614,
+          48.5421741
+        ]
+      },
+      "id": "node/131854822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/137501371",
+        "barrier": "toll_booth",
+        "operator": "Cofiroute",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1577675,
+          48.8702335
+        ]
+      },
+      "id": "node/137501371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/241054650",
+        "barrier": "toll_booth",
+        "name": "Gare de péage de Dury",
+        "operator": "Sanef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2484271,
+          49.8531324
+        ]
+      },
+      "id": "node/241054650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/241536033",
+        "barrier": "toll_booth",
+        "motorcycle": "yes",
+        "name": "Porte de Chevilly-Larue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3458629,
+          48.7632862
+        ]
+      },
+      "id": "node/241536033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/242826082",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Aire-sur-la-Lys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2561624,
+          50.6682372
+        ]
+      },
+      "id": "node/242826082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243198059",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2882498,
+          48.9106918
+        ]
+      },
+      "id": "node/243198059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243793625",
+        "barrier": "toll_booth",
+        "bicycle": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1798412,
+          48.8314283
+        ]
+      },
+      "id": "node/243793625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243853773",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3607918,
+          48.727541
+        ]
+      },
+      "id": "node/243853773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248706668",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.640075,
+          49.6325272
+        ]
+      },
+      "id": "node/248706668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248868492",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8349527,
+          49.3539554
+        ]
+      },
+      "id": "node/248868492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248869003",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8352222,
+          49.3539632
+        ]
+      },
+      "id": "node/248869003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253064462",
+        "barrier": "toll_booth",
+        "name": "Péage de Saint-Jean-Les-Deux-Jumeaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0397466,
+          48.9468928
+        ]
+      },
+      "id": "node/253064462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254662308",
+        "barrier": "toll_booth",
+        "name": "Chartres Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.446488,
+          48.3615961
+        ]
+      },
+      "id": "node/254662308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/259083764",
+        "barrier": "toll_booth",
+        "name": "Péage de Saint-Jean-Les-Deux-Jumeaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0390786,
+          48.9524389
+        ]
+      },
+      "id": "node/259083764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/261058618",
+        "barrier": "toll_booth",
+        "name": "Châtillon-la-Borde",
+        "operator": "Autoroutes Paris-Rhin-Rhone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7974062,
+          48.5422013
+        ]
+      },
+      "id": "node/261058618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262861318",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage Jules Verne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3949176,
+          49.8593848
+        ]
+      },
+      "id": "node/262861318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264064866",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.537845,
+          48.4563208
+        ]
+      },
+      "id": "node/264064866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264140281",
+        "barrier": "toll_booth",
+        "name": "Péage de Coutevroult"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8387457,
+          48.8535694
+        ]
+      },
+      "id": "node/264140281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264756447",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.288682,
+          48.9735617
+        ]
+      },
+      "id": "node/264756447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264993278",
+        "barrier": "toll_booth",
+        "name": "Gare de péage d'Albert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.863184,
+          49.9656829
+        ]
+      },
+      "id": "node/264993278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268212668",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1910282,
+          48.6329176
+        ]
+      },
+      "id": "node/268212668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268212669",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1909297,
+          48.6328348
+        ]
+      },
+      "id": "node/268212669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270111794",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1844053,
+          48.6360342
+        ]
+      },
+      "id": "node/270111794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270111802",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1849532,
+          48.638177
+        ]
+      },
+      "id": "node/270111802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270355986",
+        "barrier": "toll_booth",
+        "name": "Péage de Haudricourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6984214,
+          49.7562527
+        ]
+      },
+      "id": "node/270355986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270370119",
+        "barrier": "toll_booth",
+        "name": "Gare de péage de Bapaume"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8677809,
+          50.1041797
+        ]
+      },
+      "id": "node/270370119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270376590",
+        "barrier": "toll_booth",
+        "name": "Péage de Haudricourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7025757,
+          49.7596889
+        ]
+      },
+      "id": "node/270376590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270671520",
+        "barrier": "toll_booth",
+        "name": "Gare de péage de Péronne Vallée de la Somme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8397676,
+          49.8769736
+        ]
+      },
+      "id": "node/270671520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270684525",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9122786,
+          50.3251641
+        ]
+      },
+      "id": "node/270684525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276057833",
+        "barrier": "toll_booth",
+        "foot": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0718626,
+          49.4437258
+        ]
+      },
+      "id": "node/276057833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277702960",
+        "barrier": "toll_booth",
+        "name": "M.I.N de Rungis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3643451,
+          48.7595047
+        ]
+      },
+      "id": "node/277702960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280985131",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6802551,
+          50.5067266
+        ]
+      },
+      "id": "node/280985131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288919698",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1691307,
+          49.2053798
+        ]
+      },
+      "id": "node/288919698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288919803",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1689002,
+          49.2051395
+        ]
+      },
+      "id": "node/288919803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288926127",
+        "barrier": "toll_booth",
+        "name": "Sortie 13 Méru Gisors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1501713,
+          49.2103784
+        ]
+      },
+      "id": "node/288926127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288947708",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2058614,
+          49.6092921
+        ]
+      },
+      "id": "node/288947708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289611179",
+        "barrier": "toll_booth",
+        "name": "Péage de Haudricourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6985844,
+          49.7590441
+        ]
+      },
+      "id": "node/289611179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291577171",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Beuzeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3703165,
+          49.3398272
+        ]
+      },
+      "id": "node/291577171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292944726",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9082755,
+          48.4564374
+        ]
+      },
+      "id": "node/292944726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292944753",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9083348,
+          48.4565887
+        ]
+      },
+      "id": "node/292944753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293659568",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6270566,
+          49.2164217
+        ]
+      },
+      "id": "node/293659568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/295539220",
+        "amenity": "parking_entrance",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9649051,
+          48.7767651
+        ]
+      },
+      "id": "node/295539220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296335430",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.689904,
+          50.4116173
+        ]
+      },
+      "id": "node/296335430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296335488",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6902167,
+          50.4116251
+        ]
+      },
+      "id": "node/296335488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298533022",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9687984,
+          51.041509
+        ]
+      },
+      "id": "node/298533022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300407818",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8694101,
+          50.0998278
+        ]
+      },
+      "id": "node/300407818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300447375",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1729032,
+          50.7193533
+        ]
+      },
+      "id": "node/300447375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302017374",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6793281,
+          50.506945
+        ]
+      },
+      "id": "node/302017374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302107257",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6600277,
+          50.6739327
+        ]
+      },
+      "id": "node/302107257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302112680",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6421201,
+          50.6888482
+        ]
+      },
+      "id": "node/302112680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302112697",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6417435,
+          50.6887047
+        ]
+      },
+      "id": "node/302112697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304663622",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8110278,
+          50.1353841
+        ]
+      },
+      "id": "node/304663622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304664253",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8107888,
+          50.1352103
+        ]
+      },
+      "id": "node/304664253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304672214",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8696712,
+          50.0997941
+        ]
+      },
+      "id": "node/304672214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304673263",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2437498,
+          49.9338084
+        ]
+      },
+      "id": "node/304673263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/304862451",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2407663,
+          49.8614639
+        ]
+      },
+      "id": "node/304862451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307057501",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Saint-Quentin Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2947977,
+          49.8122739
+        ]
+      },
+      "id": "node/307057501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317670287",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0202517,
+          48.3801586
+        ]
+      },
+      "id": "node/317670287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317670314",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.020454,
+          48.380189
+        ]
+      },
+      "id": "node/317670314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319145079",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2900591,
+          51.2861006
+        ]
+      },
+      "id": "node/319145079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/323144666",
+        "barrier": "toll_booth",
+        "name": "Péage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9432083,
+          48.4213372
+        ]
+      },
+      "id": "node/323144666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/324391958",
+        "barrier": "toll_booth",
+        "name": "Péage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9434434,
+          48.4214184
+        ]
+      },
+      "id": "node/324391958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327323725",
+        "barrier": "toll_booth",
+        "name": "Péage Heudebouville",
+        "operator": "SAPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.231786,
+          49.1912653
+        ]
+      },
+      "id": "node/327323725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331251955",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0694508,
+          50.0300855
+        ]
+      },
+      "id": "node/331251955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338381613",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3609903,
+          48.7516856
+        ]
+      },
+      "id": "node/338381613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338381669",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3611145,
+          48.7516783
+        ]
+      },
+      "id": "node/338381669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/340075349",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2028379,
+          49.61
+        ]
+      },
+      "id": "node/340075349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/341935507",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1620108,
+          48.9135103
+        ]
+      },
+      "id": "node/341935507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344601153",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4803144,
+          50.8973413
+        ]
+      },
+      "id": "node/344601153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344601300",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4809988,
+          50.8961872
+        ]
+      },
+      "id": "node/344601300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344943470",
+        "barrier": "toll_booth",
+        "name": "Survilliers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5516194,
+          49.0842504
+        ]
+      },
+      "id": "node/344943470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344945338",
+        "barrier": "toll_booth",
+        "name": "Survilliers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5504353,
+          49.0853386
+        ]
+      },
+      "id": "node/344945338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353766571",
+        "barrier": "toll_booth",
+        "name": "Parking P2",
+        "operator": "Aéroports de Paris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3617722,
+          48.7298051
+        ]
+      },
+      "id": "node/353766571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/353766573",
+        "barrier": "toll_booth",
+        "name": "Parking P2",
+        "operator": "Aéroports de Paris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3616359,
+          48.7296903
+        ]
+      },
+      "id": "node/353766573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/373481261",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2138115,
+          49.8597729
+        ]
+      },
+      "id": "node/373481261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/374119298",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Saint-Quentin Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.29492,
+          49.8123696
+        ]
+      },
+      "id": "node/374119298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/393881364",
+        "barrier": "toll_booth",
+        "name": "Péage de Épretot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3385008,
+          49.551066
+        ]
+      },
+      "id": "node/393881364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/427819482",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2434924,
+          49.9337973
+        ]
+      },
+      "id": "node/427819482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429847335",
+        "barrier": "toll_booth",
+        "name": "Val de Reuil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1813861,
+          49.2477614
+        ]
+      },
+      "id": "node/429847335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429847344",
+        "barrier": "toll_booth",
+        "name": "Val de Reuil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.183803,
+          49.2456484
+        ]
+      },
+      "id": "node/429847344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430967270",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.628235,
+          49.2153244
+        ]
+      },
+      "id": "node/430967270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/431586530",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.522079,
+          49.8549685
+        ]
+      },
+      "id": "node/431586530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/431586544",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5230117,
+          49.8544209
+        ]
+      },
+      "id": "node/431586544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442366787",
+        "barrier": "toll_booth",
+        "name": "Péage Heudebouville",
+        "operator": "SAPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2321918,
+          49.191456
+        ]
+      },
+      "id": "node/442366787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/447081125",
+        "barrier": "toll_booth",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.694769,
+          49.3207736
+        ]
+      },
+      "id": "node/447081125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/447081126",
+        "barrier": "toll_booth",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6947817,
+          49.32069
+        ]
+      },
+      "id": "node/447081126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/456955619",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6831519,
+          48.2888238
+        ]
+      },
+      "id": "node/456955619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/458721714",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage Jules Verne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3991983,
+          49.8586136
+        ]
+      },
+      "id": "node/458721714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/458735366",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1334917,
+          48.3115692
+        ]
+      },
+      "id": "node/458735366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469982848",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5780971,
+          49.1377116
+        ]
+      },
+      "id": "node/469982848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/481373537",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.617763,
+          50.5140036
+        ]
+      },
+      "id": "node/481373537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/481373539",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6176281,
+          50.5140834
+        ]
+      },
+      "id": "node/481373539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502976800",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1630222,
+          48.2893333
+        ]
+      },
+      "id": "node/502976800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/532177764",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4630003,
+          50.5529565
+        ]
+      },
+      "id": "node/532177764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563328105",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6498422,
+          50.611303
+        ]
+      },
+      "id": "node/563328105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/577657549",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7361984,
+          48.9163733
+        ]
+      },
+      "id": "node/577657549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/596743717",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2335741,
+          48.8916637
+        ]
+      },
+      "id": "node/596743717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598948588",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9567413,
+          48.3655541
+        ]
+      },
+      "id": "node/598948588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/600113680",
+        "barrier": "toll_booth",
+        "name": "Portede Paray-Vieille Poste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3622468,
+          48.7553144
+        ]
+      },
+      "id": "node/600113680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/600203475",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35461,
+          48.7527222
+        ]
+      },
+      "id": "node/600203475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/603286199",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.050724,
+          49.635433
+        ]
+      },
+      "id": "node/603286199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/635884768",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1453374,
+          49.0098941
+        ]
+      },
+      "id": "node/635884768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/635884770",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1456847,
+          49.0096508
+        ]
+      },
+      "id": "node/635884770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/649150142",
+        "barrier": "toll_booth",
+        "name": "Péage de Nemours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7133927,
+          48.2696409
+        ]
+      },
+      "id": "node/649150142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/649587072",
+        "barrier": "toll_booth",
+        "name": "Péage de Nemours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71328,
+          48.2696211
+        ]
+      },
+      "id": "node/649587072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/650926914",
+        "barrier": "toll_booth",
+        "name": "Fontainebleau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6833443,
+          48.2905531
+        ]
+      },
+      "id": "node/650926914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/659426619",
+        "barrier": "toll_booth",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2191549,
+          48.8271875
+        ]
+      },
+      "id": "node/659426619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666485450",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1851494,
+          48.8354809
+        ]
+      },
+      "id": "node/666485450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/673351722",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.142673,
+          48.4103925
+        ]
+      },
+      "id": "node/673351722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/690686570",
+        "barrier": "toll_booth",
+        "operator": "Autoroutes Paris-Rhin-Rhone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7248372,
+          48.5881194
+        ]
+      },
+      "id": "node/690686570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/700985577",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7691924,
+          49.7060621
+        ]
+      },
+      "id": "node/700985577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/700987531",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7690175,
+          49.7055344
+        ]
+      },
+      "id": "node/700987531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705472696",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0507405,
+          49.6353084
+        ]
+      },
+      "id": "node/705472696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/719474972",
+        "barrier": "toll_booth",
+        "name": "Péage de Épretot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3355083,
+          49.5517291
+        ]
+      },
+      "id": "node/719474972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/720736848",
+        "barrier": "toll_booth",
+        "name": "Péage de Épretot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.335833,
+          49.5516542
+        ]
+      },
+      "id": "node/720736848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/747145320",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6610207,
+          49.6078018
+        ]
+      },
+      "id": "node/747145320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/826152705",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Cambrai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1927223,
+          50.1756376
+        ]
+      },
+      "id": "node/826152705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865277253",
+        "barrier": "toll_booth",
+        "bicycle": "no",
+        "foot": "no",
+        "horse": "no",
+        "motor_vehicle": "yes",
+        "name": "Sommesous",
+        "operator": "SANEF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2286872,
+          48.7290414
+        ]
+      },
+      "id": "node/865277253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865277258",
+        "barrier": "toll_booth",
+        "name": "Sommesous",
+        "operator": "SANEF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2298436,
+          48.7306138
+        ]
+      },
+      "id": "node/865277258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/882099674",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de la Vallée de l'Aisne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9281553,
+          49.4270004
+        ]
+      },
+      "id": "node/882099674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926794469",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4653393,
+          49.6872021
+        ]
+      },
+      "id": "node/926794469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/938388636",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6400026,
+          49.6323634
+        ]
+      },
+      "id": "node/938388636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/938406584",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8428868,
+          49.6476857
+        ]
+      },
+      "id": "node/938406584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/938406621",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8426229,
+          49.6477585
+        ]
+      },
+      "id": "node/938406621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984859296",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4429611,
+          49.5814859
+        ]
+      },
+      "id": "node/984859296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984859299",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4430817,
+          49.5813292
+        ]
+      },
+      "id": "node/984859299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/988049756",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9687265,
+          49.8086111
+        ]
+      },
+      "id": "node/988049756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1018521875",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.032134,
+          48.7892912
+        ]
+      },
+      "id": "node/1018521875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1020314736",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1198378,
+          49.4873426
+        ]
+      },
+      "id": "node/1020314736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1041090254",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6609453,
+          49.6076837
+        ]
+      },
+      "id": "node/1041090254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1041135056",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.240722,
+          49.8613962
+        ]
+      },
+      "id": "node/1041135056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1041312966",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6597476,
+          50.6739668
+        ]
+      },
+      "id": "node/1041312966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1042719181",
+        "barrier": "toll_booth",
+        "name": "gare de péage de Saint-Gibrien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.288617,
+          48.9736379
+        ]
+      },
+      "id": "node/1042719181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1042826699",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3089664,
+          48.7717546
+        ]
+      },
+      "id": "node/1042826699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1042826707",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3034005,
+          48.7769228
+        ]
+      },
+      "id": "node/1042826707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1042834566",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4448343,
+          49.0316556
+        ]
+      },
+      "id": "node/1042834566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049830277",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1628728,
+          48.2893506
+        ]
+      },
+      "id": "node/1049830277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1103573703",
+        "barrier": "toll_booth",
+        "name": "Péage Heudebouville",
+        "operator": "SAPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2331039,
+          49.1916493
+        ]
+      },
+      "id": "node/1103573703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1121574488",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1261346,
+          49.4335742
+        ]
+      },
+      "id": "node/1121574488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1121574741",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1261522,
+          49.4337745
+        ]
+      },
+      "id": "node/1121574741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1131546232",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0453889,
+          48.9120578
+        ]
+      },
+      "id": "node/1131546232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142268457",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3414603,
+          51.1293657
+        ]
+      },
+      "id": "node/1142268457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142414361",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3413872,
+          51.1293534
+        ]
+      },
+      "id": "node/1142414361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142414422",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.34124,
+          51.129326
+        ]
+      },
+      "id": "node/1142414422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142414527",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3413095,
+          51.1293375
+        ]
+      },
+      "id": "node/1142414527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142414530",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3415457,
+          51.1293787
+        ]
+      },
+      "id": "node/1142414530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142890332",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3408513,
+          51.1292582
+        ]
+      },
+      "id": "node/1142890332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142890337",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3411579,
+          51.1293139
+        ]
+      },
+      "id": "node/1142890337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142890363",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3410874,
+          51.1293037
+        ]
+      },
+      "id": "node/1142890363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142890382",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3407964,
+          51.1292472
+        ]
+      },
+      "id": "node/1142890382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142890387",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3410053,
+          51.1292894
+        ]
+      },
+      "id": "node/1142890387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142890389",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3409321,
+          51.1292758
+        ]
+      },
+      "id": "node/1142890389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1142890401",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3407105,
+          51.1292287
+        ]
+      },
+      "id": "node/1142890401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1150868064",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6256335,
+          49.3779425
+        ]
+      },
+      "id": "node/1150868064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1168064206",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3605555,
+          48.7279612
+        ]
+      },
+      "id": "node/1168064206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1168064235",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3607457,
+          48.7279974
+        ]
+      },
+      "id": "node/1168064235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1200490953",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Masnières"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1723807,
+          50.0686756
+        ]
+      },
+      "id": "node/1200490953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1200494231",
+        "barrier": "toll_booth",
+        "name": "Gare de péage d'Albert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8634119,
+          49.9656822
+        ]
+      },
+      "id": "node/1200494231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1200571098",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1474711,
+          48.8324136
+        ]
+      },
+      "id": "node/1200571098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1238723845",
+        "access": "no",
+        "barrier": "toll_booth",
+        "bicycle": "no",
+        "foot": "no",
+        "horse": "no",
+        "motor_vehicle": "designated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1573307,
+          48.7828064
+        ]
+      },
+      "id": "node/1238723845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241259640",
+        "barrier": "toll_booth",
+        "operator": "SANEF",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1674988,
+          50.7229085
+        ]
+      },
+      "id": "node/1241259640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241259672",
+        "barrier": "toll_booth",
+        "operator": "SANEF",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1652694,
+          50.7230036
+        ]
+      },
+      "id": "node/1241259672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241259673",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1723803,
+          50.71896
+        ]
+      },
+      "id": "node/1241259673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1260038730",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1911325,
+          48.6329725
+        ]
+      },
+      "id": "node/1260038730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1265561526",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7724759,
+          49.2420547
+        ]
+      },
+      "id": "node/1265561526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269035686",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0616112,
+          50.8197676
+        ]
+      },
+      "id": "node/1269035686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269035757",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0637986,
+          50.8209707
+        ]
+      },
+      "id": "node/1269035757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269194826",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8638741,
+          50.2694058
+        ]
+      },
+      "id": "node/1269194826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1274932342",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1046889,
+          48.3978398
+        ]
+      },
+      "id": "node/1274932342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1274932724",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1047054,
+          48.3978837
+        ]
+      },
+      "id": "node/1274932724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886638",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5258173,
+          48.9753969
+        ]
+      },
+      "id": "node/1281886638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886642",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5259488,
+          48.9753159
+        ]
+      },
+      "id": "node/1281886642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886677",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5260963,
+          48.9752402
+        ]
+      },
+      "id": "node/1281886677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886693",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5256993,
+          48.9754849
+        ]
+      },
+      "id": "node/1281886693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886718",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5257771,
+          48.9754268
+        ]
+      },
+      "id": "node/1281886718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886785",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5260016,
+          48.9752949
+        ]
+      },
+      "id": "node/1281886785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886815",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5257369,
+          48.9754567
+        ]
+      },
+      "id": "node/1281886815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886823",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5258549,
+          48.9753687
+        ]
+      },
+      "id": "node/1281886823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886883",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5258951,
+          48.9753405
+        ]
+      },
+      "id": "node/1281886883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281886887",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5260453,
+          48.9752666
+        ]
+      },
+      "id": "node/1281886887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1286283290",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9942744,
+          48.7843683
+        ]
+      },
+      "id": "node/1286283290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289586777",
+        "barrier": "toll_booth",
+        "name": "Péage de Cottevrard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.242685,
+          49.6467508
+        ]
+      },
+      "id": "node/1289586777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289587312",
+        "barrier": "toll_booth",
+        "name": "Péage de Cottevrard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2426177,
+          49.6469607
+        ]
+      },
+      "id": "node/1289587312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1299228223",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Beuzeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3707716,
+          49.3397056
+        ]
+      },
+      "id": "node/1299228223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1299228262",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Beuzeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3706233,
+          49.3397426
+        ]
+      },
+      "id": "node/1299228262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1299228304",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Beuzeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3704759,
+          49.3397764
+        ]
+      },
+      "id": "node/1299228304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1301727636",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5214123,
+          51.0027416
+        ]
+      },
+      "id": "node/1301727636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1301727689",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5213059,
+          51.002803
+        ]
+      },
+      "id": "node/1301727689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1303743477",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7360999,
+          48.9164635
+        ]
+      },
+      "id": "node/1303743477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1303744148",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7361512,
+          48.9164165
+        ]
+      },
+      "id": "node/1303744148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1303744510",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7362473,
+          48.9162994
+        ]
+      },
+      "id": "node/1303744510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1309963916",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7948867,
+          48.8589167
+        ]
+      },
+      "id": "node/1309963916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344207311",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2397891,
+          48.7674481
+        ]
+      },
+      "id": "node/1344207311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344207363",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2401217,
+          48.7678229
+        ]
+      },
+      "id": "node/1344207363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1371703167",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Marquion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1070521,
+          50.2025086
+        ]
+      },
+      "id": "node/1371703167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1371703269",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Marquion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1068938,
+          50.2024976
+        ]
+      },
+      "id": "node/1371703269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1371770814",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Arras Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7876579,
+          50.3450479
+        ]
+      },
+      "id": "node/1371770814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375532385",
+        "barrier": "toll_booth",
+        "name": "Chartres Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4463485,
+          48.3616199
+        ]
+      },
+      "id": "node/1375532385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375532386",
+        "barrier": "toll_booth",
+        "name": "Thivars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4421717,
+          48.3652855
+        ]
+      },
+      "id": "node/1375532386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375535641",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.540462,
+          48.4539292
+        ]
+      },
+      "id": "node/1375535641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375535646",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5403788,
+          48.4540175
+        ]
+      },
+      "id": "node/1375535646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375535663",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5378931,
+          48.4561842
+        ]
+      },
+      "id": "node/1375535663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1382180500",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3987884,
+          49.0783221
+        ]
+      },
+      "id": "node/1382180500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1382180508",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3988483,
+          49.0785342
+        ]
+      },
+      "id": "node/1382180508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1389350279",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6553475,
+          48.5885062
+        ]
+      },
+      "id": "node/1389350279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1389350280",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6572336,
+          48.5892543
+        ]
+      },
+      "id": "node/1389350280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1393525280",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1193717,
+          51.093058
+        ]
+      },
+      "id": "node/1393525280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1398749477",
+        "barrier": "toll_booth",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3428036,
+          48.7590644
+        ]
+      },
+      "id": "node/1398749477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1409048067",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Arras Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7875067,
+          50.3451792
+        ]
+      },
+      "id": "node/1409048067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1426119207",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1297519,
+          48.8031291
+        ]
+      },
+      "id": "node/1426119207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430086827",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2507663,
+          49.3920199
+        ]
+      },
+      "id": "node/1430086827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430086859",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2509344,
+          49.3919773
+        ]
+      },
+      "id": "node/1430086859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432280813",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6498462,
+          50.6111285
+        ]
+      },
+      "id": "node/1432280813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1433077455",
+        "barrier": "toll_booth",
+        "name": "Thillois",
+        "source": "GPS Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9559137,
+          49.2494753
+        ]
+      },
+      "id": "node/1433077455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1433638219",
+        "barrier": "toll_booth",
+        "name": "Péage de Haudricourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6976694,
+          49.7587214
+        ]
+      },
+      "id": "node/1433638219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1445378851",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9980196,
+          49.2979344
+        ]
+      },
+      "id": "node/1445378851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1445378921",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9978039,
+          49.2978647
+        ]
+      },
+      "id": "node/1445378921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1450738251",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0646709,
+          48.2970505
+        ]
+      },
+      "id": "node/1450738251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1461875358",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1510023,
+          51.1610737
+        ]
+      },
+      "id": "node/1461875358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1477388127",
+        "barrier": "toll_booth",
+        "operator": "Autoroutes Paris-Rhin-Rhone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7246104,
+          48.5879115
+        ]
+      },
+      "id": "node/1477388127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482426975",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1199012,
+          48.8099846
+        ]
+      },
+      "id": "node/1482426975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495494610",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6695666,
+          50.90271
+        ]
+      },
+      "id": "node/1495494610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495494614",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6690858,
+          50.9026309
+        ]
+      },
+      "id": "node/1495494614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496631027",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1827715,
+          49.4635882
+        ]
+      },
+      "id": "node/1496631027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498503669",
+        "barrier": "toll_booth",
+        "fee": "€5.20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2713859,
+          49.4500057
+        ]
+      },
+      "id": "node/1498503669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1498503670",
+        "barrier": "toll_booth",
+        "fee": "€5.20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2717092,
+          49.4500107
+        ]
+      },
+      "id": "node/1498503670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1513763776",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Liévin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7071412,
+          50.4377846
+        ]
+      },
+      "id": "node/1513763776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1513763927",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Liévin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7072889,
+          50.437812
+        ]
+      },
+      "id": "node/1513763927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1517753229",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Masnières"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1724421,
+          50.0685505
+        ]
+      },
+      "id": "node/1517753229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1519182855",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4653173,
+          49.6873169
+        ]
+      },
+      "id": "node/1519182855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1519807832",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de la Vallée de l'Aisne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9280188,
+          49.4269946
+        ]
+      },
+      "id": "node/1519807832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1520347089",
+        "barrier": "toll_booth",
+        "name": "Ormes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9620327,
+          49.246141
+        ]
+      },
+      "id": "node/1520347089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1520347094",
+        "barrier": "toll_booth",
+        "name": "Thillois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9557637,
+          49.2497257
+        ]
+      },
+      "id": "node/1520347094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1520347114",
+        "barrier": "toll_booth",
+        "name": "Ormes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9625189,
+          49.246331
+        ]
+      },
+      "id": "node/1520347114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1521075220",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6990855,
+          49.3989951
+        ]
+      },
+      "id": "node/1521075220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1560431421",
+        "barrier": "toll_booth",
+        "name": "Thivars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.442296,
+          48.3652402
+        ]
+      },
+      "id": "node/1560431421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1571610783",
+        "barrier": "toll_booth",
+        "name": "Gare de Pèage de Cambrai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1927057,
+          50.1755549
+        ]
+      },
+      "id": "node/1571610783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575767382",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2880926,
+          48.9107322
+        ]
+      },
+      "id": "node/1575767382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575874810",
+        "barrier": "toll_booth",
+        "name": "Barrière de Péage de Saint-Etienne-au-Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4358973,
+          49.033388
+        ]
+      },
+      "id": "node/1575874810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575874813",
+        "barrier": "toll_booth",
+        "name": "Barrière de Péage de Saint-Etienne-au-Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4358676,
+          49.033491
+        ]
+      },
+      "id": "node/1575874813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1584529914",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6255556,
+          49.3772126
+        ]
+      },
+      "id": "node/1584529914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1592237878",
+        "barrier": "toll_booth",
+        "name": "Péage de Quetteville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3078751,
+          49.321918
+        ]
+      },
+      "id": "node/1592237878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1603230764",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6023316,
+          49.3863201
+        ]
+      },
+      "id": "node/1603230764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1603230765",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6025408,
+          49.3863861
+        ]
+      },
+      "id": "node/1603230765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1604117575",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8061613,
+          49.6273083
+        ]
+      },
+      "id": "node/1604117575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1604117578",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8062593,
+          49.627464
+        ]
+      },
+      "id": "node/1604117578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1626004708",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1927264,
+          50.1757434
+        ]
+      },
+      "id": "node/1626004708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629427642",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6858496,
+          51.0250361
+        ]
+      },
+      "id": "node/1629427642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1631087674",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1287056,
+          49.4872493
+        ]
+      },
+      "id": "node/1631087674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1631087678",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1286172,
+          49.4872316
+        ]
+      },
+      "id": "node/1631087678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1631087703",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1292958,
+          49.4874006
+        ]
+      },
+      "id": "node/1631087703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1634194760",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0801453,
+          50.5821578
+        ]
+      },
+      "id": "node/1634194760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654391373",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6076436,
+          49.0050393
+        ]
+      },
+      "id": "node/1654391373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654430458",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6074263,
+          49.0048475
+        ]
+      },
+      "id": "node/1654430458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654430599",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6045402,
+          49.0057625
+        ]
+      },
+      "id": "node/1654430599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654430648",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6045509,
+          49.0058487
+        ]
+      },
+      "id": "node/1654430648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656496407",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9575983,
+          48.998158
+        ]
+      },
+      "id": "node/1656496407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1684777150",
+        "barrier": "toll_booth",
+        "name": "Athies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9918082,
+          49.8383141
+        ]
+      },
+      "id": "node/1684777150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1684777167",
+        "barrier": "toll_booth",
+        "name": "Athies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9897801,
+          49.838716
+        ]
+      },
+      "id": "node/1684777167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1695359055",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1855885,
+          48.5254256
+        ]
+      },
+      "id": "node/1695359055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1695359059",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.185567,
+          48.5255113
+        ]
+      },
+      "id": "node/1695359059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723771313",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0831809,
+          49.4309759
+        ]
+      },
+      "id": "node/1723771313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723771318",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.083543,
+          49.4311713
+        ]
+      },
+      "id": "node/1723771318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1755079076",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.182517,
+          49.4635218
+        ]
+      },
+      "id": "node/1755079076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770022614",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8820219,
+          48.960974
+        ]
+      },
+      "id": "node/1770022614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770022660",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8805012,
+          48.9617085
+        ]
+      },
+      "id": "node/1770022660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770022712",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8780453,
+          48.9619198
+        ]
+      },
+      "id": "node/1770022712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1774103902",
+        "barrier": "toll_booth",
+        "name": "Zoo de Cerza",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3118512,
+          49.1826784
+        ]
+      },
+      "id": "node/1774103902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1786592245",
+        "barrier": "toll_booth",
+        "foot": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0811349,
+          49.4408981
+        ]
+      },
+      "id": "node/1786592245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1793742665",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6010983,
+          51.0794283
+        ]
+      },
+      "id": "node/1793742665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1793742758",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6009899,
+          51.0794089
+        ]
+      },
+      "id": "node/1793742758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1793742886",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6010501,
+          51.0794113
+        ]
+      },
+      "id": "node/1793742886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1801078049",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5403018,
+          48.4281502
+        ]
+      },
+      "id": "node/1801078049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1824875347",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1256415,
+          49.3992155
+        ]
+      },
+      "id": "node/1824875347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1830159108",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7170834,
+          49.1537111
+        ]
+      },
+      "id": "node/1830159108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1830159112",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7168973,
+          49.1537909
+        ]
+      },
+      "id": "node/1830159112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1831379876",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.045951,
+          48.912345
+        ]
+      },
+      "id": "node/1831379876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837850593",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5568219,
+          49.0097333
+        ]
+      },
+      "id": "node/1837850593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1859487754",
+        "barrier": "toll_booth",
+        "description": "Entrée du parc du Château de Versailles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11527,
+          48.8196384
+        ]
+      },
+      "id": "node/1859487754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1859988322",
+        "barrier": "toll_booth",
+        "name": "Péage de Épretot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3387336,
+          49.5510136
+        ]
+      },
+      "id": "node/1859988322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1859988323",
+        "barrier": "toll_booth",
+        "name": "Péage de Épretot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3382717,
+          49.5511098
+        ]
+      },
+      "id": "node/1859988323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1871925918",
+        "barrier": "toll_booth",
+        "name": "Barrière de Péage de Chalons-en-Champagne La Veuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3226661,
+          49.0447993
+        ]
+      },
+      "id": "node/1871925918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1877499832",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.715743,
+          49.5216959
+        ]
+      },
+      "id": "node/1877499832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1877499843",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7157634,
+          49.5217725
+        ]
+      },
+      "id": "node/1877499843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1883772392",
+        "barrier": "toll_booth",
+        "name": "Péage de Fleury-en-Biere",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5397972,
+          48.4258286
+        ]
+      },
+      "id": "node/1883772392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1917381274",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0797645,
+          49.6022034
+        ]
+      },
+      "id": "node/1917381274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1919638584",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1104665,
+          49.5978168
+        ]
+      },
+      "id": "node/1919638584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927899111",
+        "barrier": "toll_booth",
+        "name": "Reims-Sud",
+        "operator": "SANEF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0064331,
+          49.2052107
+        ]
+      },
+      "id": "node/1927899111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927899628",
+        "barrier": "toll_booth",
+        "name": "Reims-Sud",
+        "operator": "SANEF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0066019,
+          49.2051322
+        ]
+      },
+      "id": "node/1927899628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1934628089",
+        "barrier": "toll_booth",
+        "fee:amount:motorcar": "5 €",
+        "fee:amount:scholar_car": "15 €",
+        "fee:amount:single-tracked": "5 €",
+        "fee:amount:tourist_bus": "35 €",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2181742,
+          48.8385503
+        ]
+      },
+      "id": "node/1934628089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017656620",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1286958,
+          49.4956745
+        ]
+      },
+      "id": "node/2017656620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017659716",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1279341,
+          49.5001933
+        ]
+      },
+      "id": "node/2017659716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017659717",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1278214,
+          49.5008239
+        ]
+      },
+      "id": "node/2017659717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017701391",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1307332,
+          49.491277
+        ]
+      },
+      "id": "node/2017701391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017701498",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1331203,
+          49.4900574
+        ]
+      },
+      "id": "node/2017701498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017701499",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1290702,
+          49.4907995
+        ]
+      },
+      "id": "node/2017701499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017701577",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1279759,
+          49.4905627
+        ]
+      },
+      "id": "node/2017701577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2017701865",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1254224,
+          49.489925
+        ]
+      },
+      "id": "node/2017701865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2023925946",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.541857,
+          49.007773
+        ]
+      },
+      "id": "node/2023925946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2023925949",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5442846,
+          49.0077998
+        ]
+      },
+      "id": "node/2023925949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2023925954",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5442926,
+          49.0077456
+        ]
+      },
+      "id": "node/2023925954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2023925956",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.541868,
+          49.0076709
+        ]
+      },
+      "id": "node/2023925956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2034531584",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6070968,
+          50.6711269
+        ]
+      },
+      "id": "node/2034531584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054692047",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3133746,
+          48.8217859
+        ]
+      },
+      "id": "node/2054692047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2077633382",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3127972,
+          48.8224393
+        ]
+      },
+      "id": "node/2077633382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2093963887",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.196324,
+          48.8304229
+        ]
+      },
+      "id": "node/2093963887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2093963931",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1963132,
+          48.8304972
+        ]
+      },
+      "id": "node/2093963931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2106685427",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8308022,
+          49.8555445
+        ]
+      },
+      "id": "node/2106685427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2106685535",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8306775,
+          49.8555514
+        ]
+      },
+      "id": "node/2106685535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107722951",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7693229,
+          49.7060822
+        ]
+      },
+      "id": "node/2107722951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107722980",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7691334,
+          49.7060548
+        ]
+      },
+      "id": "node/2107722980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107723026",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.768893,
+          49.7055146
+        ]
+      },
+      "id": "node/2107723026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107723040",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7689508,
+          49.7055228
+        ]
+      },
+      "id": "node/2107723040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107723043",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.769073,
+          49.7060428
+        ]
+      },
+      "id": "node/2107723043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107723163",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.76908,
+          49.7055413
+        ]
+      },
+      "id": "node/2107723163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2107723486",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7692624,
+          49.7060733
+        ]
+      },
+      "id": "node/2107723486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2119102463",
+        "barrier": "toll_booth",
+        "bicycle": "designated",
+        "foot": "yes",
+        "motor_vehicle": "designated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1298134,
+          49.4922213
+        ]
+      },
+      "id": "node/2119102463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120513424",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.609553,
+          49.2070952
+        ]
+      },
+      "id": "node/2120513424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120513425",
+        "barrier": "toll_booth",
+        "bicycle": "no",
+        "foot": "no",
+        "horse": "no",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6093712,
+          49.207052
+        ]
+      },
+      "id": "node/2120513425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297516627",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4124489,
+          51.155461
+        ]
+      },
+      "id": "node/2297516627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2355995389",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.392166,
+          50.8267088
+        ]
+      },
+      "id": "node/2355995389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367470841",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0537694,
+          49.0243687
+        ]
+      },
+      "id": "node/2367470841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367470842",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0538123,
+          49.0244005
+        ]
+      },
+      "id": "node/2367470842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367470843",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0538558,
+          49.0244317
+        ]
+      },
+      "id": "node/2367470843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367470844",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0539012,
+          49.0244604
+        ]
+      },
+      "id": "node/2367470844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367470845",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0539311,
+          49.0244864
+        ]
+      },
+      "id": "node/2367470845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2407630266",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.683502,
+          50.4853034
+        ]
+      },
+      "id": "node/2407630266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421921304",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0186938,
+          49.2620915
+        ]
+      },
+      "id": "node/2421921304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2425125219",
+        "access": "customers",
+        "barrier": "toll_booth",
+        "entrance": "yes",
+        "fee": "yes",
+        "note": "sortie du rer Laplace",
+        "source": "survey",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3348003,
+          48.8088195
+        ]
+      },
+      "id": "node/2425125219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476554633",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1336054,
+          48.3114814
+        ]
+      },
+      "id": "node/2476554633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2508032317",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.184333,
+          48.6360359
+        ]
+      },
+      "id": "node/2508032317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2508168358",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1849576,
+          48.6381384
+        ]
+      },
+      "id": "node/2508168358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2609480516",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0697438,
+          50.0295188
+        ]
+      },
+      "id": "node/2609480516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2618334526",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1571757,
+          48.9135662
+        ]
+      },
+      "id": "node/2618334526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644535526",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.249,
+          48.7814476
+        ]
+      },
+      "id": "node/2644535526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2765746313",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2888841,
+          51.2864652
+        ]
+      },
+      "id": "node/2765746313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814507717",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9902533,
+          48.5690265
+        ]
+      },
+      "id": "node/2814507717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814507720",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9902305,
+          48.5702437
+        ]
+      },
+      "id": "node/2814507720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2847657921",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7468381,
+          50.2544205
+        ]
+      },
+      "id": "node/2847657921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012499781",
+        "barrier": "toll_booth",
+        "fixme": "?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2757523,
+          51.2879083
+        ]
+      },
+      "id": "node/3012499781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3022284526",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4293611,
+          49.7372749
+        ]
+      },
+      "id": "node/3022284526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3050827007",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1450024,
+          48.4102663
+        ]
+      },
+      "id": "node/3050827007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100770825",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7793184,
+          48.870317
+        ]
+      },
+      "id": "node/3100770825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100784935",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7793637,
+          48.8703426
+        ]
+      },
+      "id": "node/3100784935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100784949",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7794071,
+          48.8703672
+        ]
+      },
+      "id": "node/3100784949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100784959",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.779452,
+          48.8703925
+        ]
+      },
+      "id": "node/3100784959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100784969",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7794976,
+          48.8704183
+        ]
+      },
+      "id": "node/3100784969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100784977",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7795424,
+          48.8704436
+        ]
+      },
+      "id": "node/3100784977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100784988",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7795872,
+          48.8704689
+        ]
+      },
+      "id": "node/3100784988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100784998",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.779632,
+          48.8704942
+        ]
+      },
+      "id": "node/3100784998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100785013",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7796768,
+          48.8705195
+        ]
+      },
+      "id": "node/3100785013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100785130",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7797216,
+          48.8705448
+        ]
+      },
+      "id": "node/3100785130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100785151",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7797664,
+          48.8705701
+        ]
+      },
+      "id": "node/3100785151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3100785165",
+        "access": "permissive",
+        "barrier": "toll_booth",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7798112,
+          48.8705954
+        ]
+      },
+      "id": "node/3100785165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3149727734",
+        "barrier": "toll_booth",
+        "name": "Barrière de Péage de Chalons-en-Champagne La Veuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3226479,
+          49.0446725
+        ]
+      },
+      "id": "node/3149727734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3149752422",
+        "barrier": "toll_booth",
+        "name": "Barrière de Péage de Chalons-en-Champagne La Veuve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3209398,
+          49.0409413
+        ]
+      },
+      "id": "node/3149752422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114112",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8152797,
+          50.9358467
+        ]
+      },
+      "id": "node/3228114112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114113",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8152201,
+          50.9358511
+        ]
+      },
+      "id": "node/3228114113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114114",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8151454,
+          50.9358565
+        ]
+      },
+      "id": "node/3228114114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114115",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8150844,
+          50.935861
+        ]
+      },
+      "id": "node/3228114115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114116",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8150053,
+          50.9358668
+        ]
+      },
+      "id": "node/3228114116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114117",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.814952,
+          50.9358708
+        ]
+      },
+      "id": "node/3228114117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114118",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8148134,
+          50.9358809
+        ]
+      },
+      "id": "node/3228114118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114119",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8147295,
+          50.9358871
+        ]
+      },
+      "id": "node/3228114119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114120",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8146835,
+          50.9358905
+        ]
+      },
+      "id": "node/3228114120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114121",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8145934,
+          50.9358971
+        ]
+      },
+      "id": "node/3228114121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228114122",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8145377,
+          50.9359012
+        ]
+      },
+      "id": "node/3228114122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248212729",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3034799,
+          48.7769418
+        ]
+      },
+      "id": "node/3248212729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3250854437",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.309029,
+          48.7718006
+        ]
+      },
+      "id": "node/3250854437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321275857",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8322575,
+          48.5287718
+        ]
+      },
+      "id": "node/3321275857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321280179",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8326102,
+          48.5288538
+        ]
+      },
+      "id": "node/3321280179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343894806",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9218618,
+          49.5482832
+        ]
+      },
+      "id": "node/3343894806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343922931",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9215364,
+          49.5480908
+        ]
+      },
+      "id": "node/3343922931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3364175158",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6281063,
+          49.2154193
+        ]
+      },
+      "id": "node/3364175158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372819625",
+        "barrier": "toll_booth",
+        "name": "Péage de Haudricourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7031059,
+          49.7593991
+        ]
+      },
+      "id": "node/3372819625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376518340",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8679019,
+          50.1042076
+        ]
+      },
+      "id": "node/3376518340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3394345615",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0896949,
+          50.3730454
+        ]
+      },
+      "id": "node/3394345615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3894870462",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage du Pont de Tancarville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4737998,
+          49.4638828
+        ]
+      },
+      "id": "node/3894870462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3894870464",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage du Pont de Tancarville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4736829,
+          49.4638298
+        ]
+      },
+      "id": "node/3894870464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3942365140",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1356943,
+          50.6042753
+        ]
+      },
+      "id": "node/3942365140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3942365141",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1365775,
+          50.6046665
+        ]
+      },
+      "id": "node/3942365141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3942365146",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1383605,
+          50.6062943
+        ]
+      },
+      "id": "node/3942365146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3942365147",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1383677,
+          50.6062009
+        ]
+      },
+      "id": "node/3942365147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536687",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6270144,
+          49.2164462
+        ]
+      },
+      "id": "node/4013536687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536688",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6271008,
+          49.2163794
+        ]
+      },
+      "id": "node/4013536688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536789",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6272997,
+          49.2162014
+        ]
+      },
+      "id": "node/4013536789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536790",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6271821,
+          49.2162803
+        ]
+      },
+      "id": "node/4013536790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536791",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6273993,
+          49.2160831
+        ]
+      },
+      "id": "node/4013536791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536792",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6274137,
+          49.216054
+        ]
+      },
+      "id": "node/4013536792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536793",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6271317,
+          49.2163556
+        ]
+      },
+      "id": "node/4013536793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536794",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62717,
+          49.216318
+        ]
+      },
+      "id": "node/4013536794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536795",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6273419,
+          49.2161238
+        ]
+      },
+      "id": "node/4013536795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536796",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6274411,
+          49.2160225
+        ]
+      },
+      "id": "node/4013536796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536797",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6273328,
+          49.2161649
+        ]
+      },
+      "id": "node/4013536797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536798",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6275099,
+          49.2159654
+        ]
+      },
+      "id": "node/4013536798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536799",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6272449,
+          49.2162389
+        ]
+      },
+      "id": "node/4013536799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536800",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6276703,
+          49.2157886
+        ]
+      },
+      "id": "node/4013536800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536801",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6278012,
+          49.2156584
+        ]
+      },
+      "id": "node/4013536801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536802",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6276315,
+          49.2158218
+        ]
+      },
+      "id": "node/4013536802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536803",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6276296,
+          49.2158707
+        ]
+      },
+      "id": "node/4013536803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536804",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6275744,
+          49.2158875
+        ]
+      },
+      "id": "node/4013536804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536805",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6277383,
+          49.2157321
+        ]
+      },
+      "id": "node/4013536805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536806",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6277742,
+          49.2156951
+        ]
+      },
+      "id": "node/4013536806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536807",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6277001,
+          49.2157553
+        ]
+      },
+      "id": "node/4013536807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536808",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6275447,
+          49.2159276
+        ]
+      },
+      "id": "node/4013536808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536809",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6279913,
+          49.2155384
+        ]
+      },
+      "id": "node/4013536809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536810",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6278763,
+          49.2155876
+        ]
+      },
+      "id": "node/4013536810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536811",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6280491,
+          49.2154535
+        ]
+      },
+      "id": "node/4013536811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536812",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.627855,
+          49.2156295
+        ]
+      },
+      "id": "node/4013536812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013536813",
+        "barrier": "toll_booth",
+        "name": "Gare de Péage de Chamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6280353,
+          49.2154997
+        ]
+      },
+      "id": "node/4013536813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4077516751",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1122631,
+          51.0931083
+        ]
+      },
+      "id": "node/4077516751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127019592",
+        "barrier": "toll_booth",
+        "operator": "Cofiroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9310795,
+          48.5526261
+        ]
+      },
+      "id": "node/4127019592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127019613",
+        "barrier": "toll_booth",
+        "operator": "Cofiroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9299583,
+          48.5541345
+        ]
+      },
+      "id": "node/4127019613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163758850",
+        "barrier": "toll_booth",
+        "fee": "yes",
+        "note": "sortie du parking",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5752238,
+          49.010574
+        ]
+      },
+      "id": "node/4163758850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163758882",
+        "amenity": "parking_entrance",
+        "barrier": "toll_booth",
+        "fee": "yes",
+        "note": "entrée du parking",
+        "parking": "surface",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5752133,
+          49.0107553
+        ]
+      },
+      "id": "node/4163758882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4189960633",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9658798,
+          48.2844831
+        ]
+      },
+      "id": "node/4189960633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4189960634",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9660263,
+          48.2844061
+        ]
+      },
+      "id": "node/4189960634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4238900177",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3683855,
+          48.7286623
+        ]
+      },
+      "id": "node/4238900177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357543559",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.190842,
+          48.6327965
+        ]
+      },
+      "id": "node/4357543559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365283548",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6992281,
+          49.3989851
+        ]
+      },
+      "id": "node/4365283548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365381373",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1210903,
+          49.4025471
+        ]
+      },
+      "id": "node/4365381373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390079353",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1554002,
+          49.013163
+        ]
+      },
+      "id": "node/4390079353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390079354",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1551572,
+          49.0133426
+        ]
+      },
+      "id": "node/4390079354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390079355",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1552319,
+          49.013287
+        ]
+      },
+      "id": "node/4390079355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390079356",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1553189,
+          49.0132163
+        ]
+      },
+      "id": "node/4390079356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415568288",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2289036,
+          49.7397899
+        ]
+      },
+      "id": "node/4415568288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415569389",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.228775,
+          49.7397357
+        ]
+      },
+      "id": "node/4415569389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421111789",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0390742,
+          48.9523904
+        ]
+      },
+      "id": "node/4421111789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421111790",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0390876,
+          48.9523206
+        ]
+      },
+      "id": "node/4421111790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4486724116",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4564591,
+          51.2366427
+        ]
+      },
+      "id": "node/4486724116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4488137079",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4563852,
+          51.2365773
+        ]
+      },
+      "id": "node/4488137079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681594641",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9687662,
+          49.8084701
+        ]
+      },
+      "id": "node/4681594641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551576",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3583265,
+          48.8444091
+        ]
+      },
+      "id": "node/4705551576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705551577",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3603345,
+          48.8443507
+        ]
+      },
+      "id": "node/4705551577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4850810028",
+        "barrier": "toll_booth",
+        "name": "Illiers-Combray",
+        "operator": "Cofiroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2703139,
+          48.2944403
+        ]
+      },
+      "id": "node/4850810028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4850810029",
+        "barrier": "toll_booth",
+        "name": "Illiers-Combray",
+        "operator": "Cofiroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2701735,
+          48.2943918
+        ]
+      },
+      "id": "node/4850810029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4948694491",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5758047,
+          49.004853
+        ]
+      },
+      "id": "node/4948694491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949054502",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5782654,
+          49.0037665
+        ]
+      },
+      "id": "node/4949054502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985000837",
+        "barrier": "toll_booth",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9952631,
+          48.7846664
+        ]
+      },
+      "id": "node/4985000837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985000840",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9953126,
+          48.7847198
+        ]
+      },
+      "id": "node/4985000840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985000841",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9950742,
+          48.7849305
+        ]
+      },
+      "id": "node/4985000841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076785",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9216808,
+          49.5482049
+        ]
+      },
+      "id": "node/4990076785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076786",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9217291,
+          49.5482284
+        ]
+      },
+      "id": "node/4990076786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076787",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9217948,
+          49.5482563
+        ]
+      },
+      "id": "node/4990076787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076798",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9213594,
+          49.548017
+        ]
+      },
+      "id": "node/4990076798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076799",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.921424,
+          49.548041
+        ]
+      },
+      "id": "node/4990076799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076800",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9214766,
+          49.5480718
+        ]
+      },
+      "id": "node/4990076800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076801",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9216381,
+          49.5481535
+        ]
+      },
+      "id": "node/4990076801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4990076802",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9215877,
+          49.5481279
+        ]
+      },
+      "id": "node/4990076802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5249922938",
+        "barrier": "toll_booth",
+        "name": "M.I.N de Rungis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364352,
+          48.7596517
+        ]
+      },
+      "id": "node/5249922938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5401103775",
+        "barrier": "toll_booth",
+        "fixme": "must be verified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2758753,
+          51.2880636
+        ]
+      },
+      "id": "node/5401103775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5522482829",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1212628,
+          49.402619
+        ]
+      },
+      "id": "node/5522482829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5553995431",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1619723,
+          48.9132663
+        ]
+      },
+      "id": "node/5553995431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5553995442",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1572315,
+          48.9138195
+        ]
+      },
+      "id": "node/5553995442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5600399656",
+        "access": "destination",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0504605,
+          49.0291345
+        ]
+      },
+      "id": "node/5600399656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5617171486",
+        "barrier": "toll_booth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1241173,
+          48.4529883
+        ]
+      },
+      "id": "node/5617171486"
+    }
+  ]
+}

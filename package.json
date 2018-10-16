@@ -1,0 +1,32 @@
+{
+  "name": "toll!",
+  "version": "1.0.0",
+  "description": "Toll!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emerabet/toll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emerabet/toll/issues"
+  },
+  "homepage": "https://github.com/emerabet/toll#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.6",
+    "@turf/turf": "^5.1.6",
+    "express": "^4.16.3",
+    "google-polyline": "^1.0.0",
+    "mysql": "^2.15.0",
+    "request": "^2.87.0",
+    "sleep-async": "^1.0.5"
+  }
+}
